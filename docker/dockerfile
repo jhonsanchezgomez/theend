@@ -1,0 +1,5 @@
+FROM java:8
+WORKDIR /
+ADD dockerExample.jar dockerExample.jar
+EXPOSE 8084
+CMD java - jar dockerExample.jar

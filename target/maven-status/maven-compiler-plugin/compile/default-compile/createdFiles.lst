@@ -1,0 +1,3 @@
+com\dockerExample\demo\DockerExampleApplication.class
+com\dockerExample\demo\models\Greeting.class
+com\dockerExample\demo\controller\MainController.class
